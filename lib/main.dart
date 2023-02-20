@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'AlcooGasolina.dart';
+import 'alcool_gasolina.dart';
 
 void main() {
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     home: AlcooGasolina(),
   ));
 }
